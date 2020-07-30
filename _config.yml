@@ -1,7 +1,7 @@
 # Site settings 配置站点
 title: '阿浩|Hughie Blog'
-description: '记录一下'
-keyword: 'hughie, hughie blog, 技术, 分享'
+description: '记录一下所学所感，技术是开放的'
+keyword: '阿浩, hughie, hughie blog, 技术, 分享'
 url: '' # your host
 
 # when build blog on server, if you don't need baseurl, you should leave this value blank.
@@ -26,7 +26,7 @@ footer:
 # Author 配置博主信息
 author: 'HUGHIE'
 nickname: 'hughie'
-bio: '技术分享，热爱技术，记录一下'
+bio: '热爱技术的小菜鸟, 记录一下所学所感'
 avatar: '/assets/img/profile.png'
 
 # Search
