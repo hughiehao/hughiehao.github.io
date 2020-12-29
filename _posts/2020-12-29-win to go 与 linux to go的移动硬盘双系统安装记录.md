@@ -23,7 +23,7 @@ Windows10企业版
 
 <br />
 
-#### 1、准备工作：
+#### 一、准备工作：
 
 **1、WTG**
 
@@ -55,7 +55,7 @@ Linux什么系统版本都可，我安装的是ubuntu18.04。
 
 <br />
 
-#### 2、安装步骤
+#### 二、安装步骤
 
 **1、分区**
 
@@ -104,7 +104,7 @@ Bios中设置u盘启动，进入Linux安装界面：
 
 <br />
 
-#### 3、启动项配置
+#### 三、启动项配置
 
 rEFInd一般在UEFI启动环境下使用，他可以用来引导各类操作系统的启动，所以要求电脑支持UEFI，旧电脑不支持。
 
@@ -135,7 +135,7 @@ include <相对路径>/theme.config
 
 <br />
 
-#### 4、制作Linux系统镜像做备份
+#### 四、制作Linux系统镜像做备份
 
 由于我目前主用Ubuntu18，所以暂时只使用了对Ubuntu的镜像备份方法。
 
@@ -197,7 +197,7 @@ sudo make install
 
 [在移动硬盘上安装win to go(Windows 10)和Linux to go(ubantu)双系统](https://blog.csdn.net/Pz_Zero/article/details/100044249)
 
-[Windows To Go 辅助工具|WTG辅助工具 v5.5.6](https://bbs.luobotou.org/thread-761-1-1.html)
+[Windows To Go 辅助工具 WTG辅助工具 v5.5.6](https://bbs.luobotou.org/thread-761-1-1.html)
 
 [rEFInd引导使用教程](https://zhuanlan.zhihu.com/p/67114559)
 
